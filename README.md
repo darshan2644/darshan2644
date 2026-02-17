@@ -57,15 +57,12 @@ src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif"/>
   </a>
 </p>
 
-
-
-
 ---
 
-## 🔥 Contribution Streak
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=darshan2644&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan2644&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
