@@ -20,14 +20,19 @@
 
 ## 🚀 About Me
 
-<img align="right" width="350" 
-src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif"/>
+<img align="right" width="330" src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif"/>
+
+<p align="left">
 
 - 🎓 Computer Engineering Student  
-- 🌱 Learning **MERN | Blockchain | AI-ML | PHP | XAMPP**
-- 💬 Ask me about **Full Stack Development**
-- 📫 **darshanvasoya75@gmail.com**
-- ⚡ I love building real-world projects
+- 🌱 Learning **MERN | Blockchain | AI-ML | PHP | XAMPP**  
+- 💬 Ask me about **Full Stack Development**  
+- 📫 **darshanvasoya75@gmail.com**  
+- ⚡ I love building real-world projects  
+
+</p>
+
+<br clear="right"/>
 
 ---
 
@@ -49,9 +54,11 @@ src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif"/>
   <a href="https://www.linkedin.com/in/darshan-vasoya-3aa924285/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:darshanvasoya75@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/Darshan2204/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
@@ -59,7 +66,7 @@ src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif"/>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan2644&theme=tokyo-night&hide_border=true" />
@@ -67,40 +74,34 @@ src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif"/>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🔗 Certchain  
+### 🔗 [Certchain](https://github.com/darshan2644/Certchain)
 Blockchain-based certificate verification system  
-👉 https://github.com/darshan2644/Certchain  
 
 ---
 
-### 🏭 LVS Machine Tools  
+### 🏭 [LVS Machine Tools](https://github.com/darshan2644/lvs-machine-tools)
 Industrial machine tools management system  
-👉 https://github.com/darshan2644/lvs-machine-tools  
 
 ---
 
-### 👥 Team Management System  
+### 👥 [Team Management System](https://github.com/darshan2644/Team-Management-System)
 Task & workflow management platform  
-👉 https://github.com/darshan2644/Team-Management-System  
 
 ---
 
-### 📱 Flutter Projects  
+### 📱 [Flutter Projects](https://github.com/darshan2644/Flutter-Projects)
 Collection of mobile apps built using Flutter  
-👉 https://github.com/darshan2644/Flutter-Projects  
 
 ---
 
-### 💬 Stackflow  
+### 💬 [Stackflow](https://github.com/darshan2644/Stackflow)
 Discussion / Q&A style platform  
-👉 https://github.com/darshan2644/Stackflow  
 
 ---
 
-### 🚦 Smart Traffic Management System  
+### 🚦 [Smart Traffic Management System](https://github.com/darshan2644/Smart-Traffic-Management-System)
 Database-driven traffic optimization system  
-👉 https://github.com/darshan2644/Smart-Traffic-Management-System  
 
 ---
